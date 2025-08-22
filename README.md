@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI project**
 
-- 💬 Ask me about **Agile**
+- 💬 Ask me about **Agile Process**
 
 - 📫 How to reach me **pranavyeram2016@gmail.com**
 
