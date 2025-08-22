@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Logistic project**
 
-- 🌱 I’m currently learning **AI project**
+- 🌱 I’m currently learning **AI Tool**
 
-- 💬 Ask me about **Agile Process**
+- 💬 Ask me about **Agile Process,Project Managment**
 
 - 📫 How to reach me **pranavyeram2016@gmail.com**
 
